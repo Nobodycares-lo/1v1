@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<Module>
+<ModulePrefs title="1v1lol"/>
+<Content type="html">
 <html lang="en-us">
 
 <head>
@@ -337,3 +339,6 @@
 </body>
 
 </html>
+
+</Content>
+</Module>
